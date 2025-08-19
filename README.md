@@ -117,4 +117,4 @@ Architecture Diagram
                      ↑
                      |
                [Scaling via Load Balancer + Replica DB]
-#
+
